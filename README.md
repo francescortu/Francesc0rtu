@@ -7,11 +7,11 @@
 <a href="https://instagram.com/francescortu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="francescortu" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=francesc0rtu&show_icons=true&locale=en&layout=compact&theme=dark" alt="francesc0rtu"  height="150" /></p>
+### Github Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=francesc0rtu&show_icons=true&locale=en&theme=dark" alt="francesc0rtu" height="150" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=francesc0rtu&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="francesc0rtu"  height="150" />
 
-<!---  <a href="http://www.github.com/Francesc0rtu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Francesc0rtu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> --->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=francesc0rtu&show_icons=true&locale=en&theme=cobalt" alt="francesc0rtu" height="150" /></p>
 
+<p><img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Francesc0rtu&theme=cobalt" alt="francesc0rtu" height="150" /></p>
 
-<!---  ![](https://komarev.com/ghpvc/?username=Francesc0rtu) --->
