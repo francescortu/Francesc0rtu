@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francesco</h1>
-<h3 align="center">Student of Data Science and Artificial Intelligence @ DSSC - Units</h3>
+<h3 align="center">Student of Data Science and Artificial Intelligence @ University of Trieste</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -10,9 +10,9 @@
 
 ### Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=francesc0rtu&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="francesc0rtu"  height="150" />
+<!--- p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=francesc0rtu&show_icons=true&locale=en&layout=compact&theme=cobalt" alt="francesc0rtu"  height="150" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=francesc0rtu&show_icons=true&locale=en&theme=cobalt" alt="francesc0rtu" height="150" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=francesc0rtu&show_icons=true&locale=en&theme=cobalt" alt="francesc0rtu" height="150" /></p>) -->
 
 <p><img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Francesc0rtu&theme=cobalt" alt="francesc0rtu" height="150" /></p>
 
